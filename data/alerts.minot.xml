@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+<title>MION8 Souris River at Minot-Broadway Bridge (North Dakota)</title>
+<link>http://water.weather.gov/ahps/</link>
+<description>Current Hydrologic Alerts for North Dakota provided by the National Weather Service - Advanced Hydrologic Prediction Service</description>
+<language>en-us</language>
+<copyright>None</copyright>
+<lastBuildDate>Mon, 25 Mar 2013 21:20:25 +0000</lastBuildDate>
+<managingEditor>ahps.webmaster@noaa.gov</managingEditor>
+<webMaster>ahps.cms@noaa.gov</webMaster>
+
+<image>
+<title>NOAA - National Weather Service - Advanced Hydrologic Prediction Service</title>
+<url>http://water.weather.gov/images/xml_logo.gif</url>
+<link>http://water.weather.gov/ahps/</link>
+<width>80</width>
+<height>41</height>
+<description>NOAA - National Weather Service - Advanced Hydrologic Prediction Service</description>
+</image>
+<item>
+<title>Alert - MION8 - Souris River at Minot-Broadway Bridge (North Dakota)</title>
+<link>http://water.weather.gov/ahps2/hydrograph.php?wfo=bis&#x26;gage=mion8</link>
+<description>Latest observed data is greater than 12 hours old (378957.34 hours old).&#x3C;br /&#x3E;
+&#x3C;br /&#x3E;AHPS Hydrologic Service Area Homepage:&#x3C;br /&#x3E;
+&#x3C;a href=&#x27;http://water.weather.gov/ahps2/index.php?wfo=bis&#x27;&#x3E;http://water.weather.gov/ahps2/index.php?wfo=bis&#x3C;/a&#x3E;
+</description>
+<guid isPermaLink="false">http://water.weather.gov/ahps2/hydrograph.php?wfo=bis&#x26;gage=mion8</guid>
+<geo:lat>48.238056</geo:lat>
+<geo:long>-101.295833</geo:long>
+</item>
+</channel>
+</rss>

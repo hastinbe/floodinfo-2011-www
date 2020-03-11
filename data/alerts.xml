@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+<title>BIWN8 Missouri River at Bismarck (North Dakota)</title>
+<link>http://water.weather.gov/ahps/</link>
+<description>Current Hydrologic Alerts for North Dakota provided by the National Weather Service - Advanced Hydrologic Prediction Service</description>
+<language>en-us</language>
+<copyright>None</copyright>
+<lastBuildDate>Sun, 07 Apr 2013 00:15:17 +0000</lastBuildDate>
+<managingEditor>ahps.webmaster@noaa.gov</managingEditor>
+<webMaster>ahps.cms@noaa.gov</webMaster>
+
+<image>
+<title>NOAA - National Weather Service - Advanced Hydrologic Prediction Service</title>
+<url>http://water.weather.gov/images/xml_logo.gif</url>
+<link>http://water.weather.gov/ahps/</link>
+<width>80</width>
+<height>41</height>
+<description>NOAA - National Weather Service - Advanced Hydrologic Prediction Service</description>
+</image>
+<item>
+<title>Alert - BIWN8 - Missouri River at Bismarck (North Dakota)</title>
+<link>http://water.weather.gov/ahps2/hydrograph.php?wfo=bis&#x26;gage=biwn8</link>
+<description>Alert conditions are not currently being met.&#x3C;br /&#x3E;
+&#x3C;br /&#x3E;Alert Stage: 12.5 ft&#x3C;br /&#x3E;
+Flood Flow: 14.5 ft&#x3C;br /&#x3E;
+&#x3C;br /&#x3E;Latest Observation: 4.71 ft&#x3C;br /&#x3E;
+Observation Time: Apr  6, 2013 05:15 PM CST&#x3C;br /&#x3E;
+&#x3C;br /&#x3E;Highest Forecast Available: N/A&#x3C;br /&#x3E;
+Highest Forecast Time: N/A&#x3C;br /&#x3E;
+&#x3C;br /&#x3E;Furthest Projected Forecast Available: N/A&#x3C;br /&#x3E;
+Furthest Projected Forecast Time: N/A&#x3C;br /&#x3E;
+&#x3C;br /&#x3E;AHPS Hydrologic Service Area Homepage:&#x3C;br /&#x3E;
+&#x3C;a href=&#x27;http://water.weather.gov/ahps2/index.php?wfo=bis&#x27;&#x3E;http://water.weather.gov/ahps2/index.php?wfo=bis&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;&#x3C;br /&#x3E;U.S. Geological Survey (USGS) Data and Site Info for :&#x3C;br /&#x3E;
+&#x3C;a href=&#x27;http://water.usgs.gov/nd/nwis/uv/?site_no=06342500&#x27;&#x3E;USGS ID: 06342500&#x3C;/a&#x3E;
+</description>
+<guid isPermaLink="false">http://water.weather.gov/ahps2/hydrograph.php?wfo=bis&#x26;gage=biwn8</guid>
+<geo:lat>46.814167</geo:lat>
+<geo:long>-100.821389</geo:long>
+</item>
+</channel>
+</rss>
